@@ -1,0 +1,29 @@
+.footer {
+  /* * to show remove the display:none */
+  display: none; 
+    position: fixed;
+    left: 16px;
+    bottom: 16px;
+    background: rgba(255, 248, 248, 0.7);
+    color: #000;
+    font-weight: normal;
+    padding: 8px 24px;
+    border-radius: 32px;
+    opacity: .95;
+    backdrop-filter: blur(8px);
+    overflow: auto;
+    width: 83vw;
+    white-space: normal;
+  }
+  
+  .footer span {
+    width: 100%;
+    font-size: 14px;
+    color: #09f;
+    opacity: .8;
+  }
+  
+  .footer h4, .footer h5 {
+    margin: 0;
+    display: flex;
+  }

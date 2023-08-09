@@ -1,0 +1,30 @@
+section {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    height: 50px;
+    align-items: center;
+    text-align: center;
+    font-size: 1.2rem;
+    letter-spacing: .5PX;
+    background-color: rgb(224, 238, 238);
+    font-weight: bold;
+
+}
+
+input {
+    cursor: pointer;
+    margin: 5px;
+}
+
+select {
+    padding: 4px 12px;
+    margin: 0px 10px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+select option {
+    font-size: 1.1rem;
+    letter-spacing: 1px;
+}

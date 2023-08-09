@@ -1,0 +1,13 @@
+header {
+    height: 60px;
+    background-color: rgb(5, 89, 114);
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin: auto;
+    font-size: 2.3rem;
+    letter-spacing: 2px;
+    color: #efefef;
+}
